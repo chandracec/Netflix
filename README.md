@@ -18,15 +18,26 @@
  <hr>
  
  </div>
+ 
  <div id="about-the-project" align="center">
-  <h3>This is how home page looks like</h3>
+  <h3>how home page</h3>
  <img src="/Screenshot (80).png" alt="Screenshot-41" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
  <hr>
-  <h3>Works by SIR C V RAMAN </h3>
+ 
+  <h3>A video running on TV  </h3>
  <img src="/Screenshot (81).png" alt="Screenshot-47" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <hr>
- <h3>Awards and Honours to SIR C V RAMAN</h3>
+  
+ <h3>You can watch everywhere</h3>
  <img src="/Screenshot (79).png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
+  <p align="right">(<a href="#top">back to top</a>)</p>
+  
+ <h3>Download your shows</h3>
+ <img src="/Screenshot (82).png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
+  <p align="right">(<a href="#top">back to top</a>)</p>
+  
+ <h3>Children Specific</h3>
+ <img src="/Screenshot (78).png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <p align="right">(<a href="#top">back to top</a>)</p>
  
 
