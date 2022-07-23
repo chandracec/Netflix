@@ -4,7 +4,7 @@
  </div> 
  <h1>NETFLIX HOMEPAGE</h1>
  </div>
- <div align="center">
+ 
  <details>
  <summary>Table of Contents</summary>
   <ol>
@@ -16,17 +16,19 @@
   </ol> 
  </details>
  <hr>
+ 
  </div>
  <div id="about-the-project" align="center">
   <h3>This is how home page looks like</h3>
  <img src="/Screenshot (80).png" alt="Screenshot-41" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
  <hr>
   <h3>Works by SIR C V RAMAN </h3>
- <img src="https://i.ibb.co/Nyr1tGh/Screenshot-47.png" alt="Screenshot-47" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
+ <img src="/Screenshot (81).png" alt="Screenshot-47" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <hr>
  <h3>Awards and Honours to SIR C V RAMAN</h3>
- <img src="https://i.ibb.co/LJWzbrt/Screenshot-46.png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
+ <img src="/Screenshot (79).png" alt="Screenshot-46" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
   <p align="right">(<a href="#top">back to top</a>)</p>
+ 
 
 </div>
   <hr>
