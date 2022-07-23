@@ -1,8 +1,10 @@
 
-<div align="left">
+<div align="center">
  <div id="top">
  </div> 
  <h1>NETFLIX HOMEPAGE</h1>
+ </div>
+ <div align="center">
  <details>
  <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +16,7 @@
   </ol> 
  </details>
  <hr>
- 
+ </div>
  <div id="about-the-project" align="center">
   <h3>This is how home page looks like</h3>
  <img src="https://i.ibb.co/BL32HZ3/Screenshot-41.png" alt="Screenshot-41" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
@@ -28,7 +30,7 @@
 
 </div>
   <hr>
-  <div align ="center">
+  <div align ="left">
    <hr>
  <h2>Built With</h2> 
  <div id="built-with">
