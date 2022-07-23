@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
  <div id="top">
  </div> 
  <h1>NETFLIX HOMEPAGE</h1>
