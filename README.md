@@ -20,7 +20,7 @@
  </div>
  
  <div id="about-the-project" align="center">
-  <h3>how home page</h3>
+  <h3>home page</h3>
  <img src="/Screenshot (80).png" alt="Screenshot-41" border="0"style="display: inline-block; margin: auto auto; max-width: 300px">
  <hr>
  
