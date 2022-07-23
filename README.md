@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
  <div id="top">
  </div> 
  <h1>NETFLIX HOMEPAGE</h1>
@@ -68,9 +68,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Font Awesome](https://fontawesome.com)
-* [C V Raman Wikipedia](https://en.wikipedia.org/wiki/C._V._Raman)
-* [Nobel Prize WEbsite]( https://www.nobelprize.org/prizes/physics/1930/raman/biographical/)
-* [JagranJosh](https://www.jagranjosh.com/general-knowledge/chandrasekhara-venkata-raman-cv-raman-biography-1573042778-1)
+* [ Netflix India]( https://www.netflix.com/in/)
+* [G Drive Resource](https://bit.ly/3z1ODiT)
+* [Youtube Tutorial](https://www.youtube.com/watch?v=FdvlJikksdA&t=416s)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
    </div>
